@@ -1,0 +1,18 @@
+
+054 Starting-project
+https://github.com/academind/django-practical-guide-course-code/tree/prj-urls-views-templates-00-starting-setup/
+
+056 More-on-the-Django-slug-transformer
+https://docs.djangoproject.com/en/3.1/topics/http/urls/#path-converters
+
+058 CSS-Files-You-only-need-app.css-and-index.css-in-this-lecture-the-other-files-are-required-later-in-this-module-
+https://github.com/academind/django-practical-guide-course-code/tree/prj-urls-views-templates-zz-extra-files/css-files
+
+059 Example-images-you-can-use
+https://github.com/academind/django-practical-guide-course-code/tree/prj-urls-views-templates-04-adding-images/blog/static/blog/images
+
+060 CSS-Files-You-only-need-all-posts.css-in-this-lecture-the-other-files-are-required-later-in-this-module-
+https://github.com/academind/django-practical-guide-course-code/tree/prj-urls-views-templates-zz-extra-files/css-files
+
+062 CSS-Files-You-only-need-post-detail.css-in-this-lecture-the-other-files-are-required-later-in-this-module-
+https://github.com/academind/django-practical-guide-course-code/tree/prj-urls-views-templates-zz-extra-files/css-files
